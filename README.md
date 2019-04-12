@@ -1,8 +1,6 @@
 # AutoClicker-Download
-Free AutoClicker v1.0.0
+Darmowy autoclicker napisany w cpp ogólnie polecam
 
-
-Only for use, do not copy or upload in web
 
 # How use?
 
